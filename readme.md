@@ -1,4 +1,4 @@
-# Olá, GitHub!
+# Olá, grupo de trabalho!
 
 Estou aprendendo a utilizar repositórios remotos.
 
