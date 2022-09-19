@@ -1,4 +1,6 @@
-# Olá, grupo de trabalho!
+
+# Olá, agora existe apenas um arquivo unificado.
+
 
 Estou aprendendo a utilizar repositórios remotos.
 
